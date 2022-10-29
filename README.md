@@ -1,7 +1,10 @@
 # Amazon-Clone-using-React
  
  
- This is a copy of amazon website built with React
+ This is a copy of Amazon website built using React.
+ 
+ 
+ 
 ![Screenshot (298)](https://user-images.githubusercontent.com/88320958/198835516-e52764d0-ff51-415b-8450-b46045286ce0.png)
 
 

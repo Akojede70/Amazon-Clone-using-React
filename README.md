@@ -1,2 +1,4 @@
 # Amazon-Clone-using-React
-Amazon Clone 
+ 
+ 
+ This is a copy of amazon website built with React
